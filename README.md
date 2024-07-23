@@ -1,5 +1,5 @@
 # TLC-Project
-Develop an app that enables Taxi and Limousine Commission (TLC) riders to estimate the taxi fares in advance of their ride.
+Develop a model that enables Taxi and Limousine Commission (TLC) riders to estimate the taxi fares in advance of their ride.
 
 Load data, explore, and extract the TLC data with Python
 
