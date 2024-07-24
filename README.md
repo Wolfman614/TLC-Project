@@ -1,6 +1,8 @@
 # TLC-Project
 Develop a model that enables Taxi and Limousine Commission (TLC) riders to estimate the taxi fares in advance of their ride.
 
+Utilising PACE strategy
+
 Load data, explore, and extract the TLC data with Python
 
 Use custom functions to organize the information within the TLC dataset
